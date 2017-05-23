@@ -3,7 +3,10 @@ Comparison of web archiving software
 
 There exist many software systems for crawling and archiving web sites.  It is not always easy to tell which features different software systems possess or how different software systems differ from each other.  The goal of this research project is to fill this gap, by providing a comprehensive comparison of software systems for archiving web sites.
 
-The current form of this comparison is a [Google spreadsheet](https://docs.google.com/spreadsheets/d/1FqxwaZnIhhQ7jDCC-W64NMRf5rDeh2Shx3u01MsBmTQ/edit#gid=0):
+Data
+----
+
+The current form of this comparison is a [Google spreadsheet](https://docs.google.com/spreadsheets/d/1FqxwaZnIhhQ7jDCC-W64NMRf5rDeh2Shx3u01MsBmTQ/edit#gid=0), for simplicity of presentation and (hopefully) to make it easier for other people to get involved:
 
 <div align="center">
 <a href="https://docs.google.com/spreadsheets/d/1FqxwaZnIhhQ7jDCC-W64NMRf5rDeh2Shx3u01MsBmTQ/edit#gid=0"><img src=".graphics/spreadsheet-image-v2.png"></a>
@@ -62,3 +65,18 @@ The meanings of the columns are the following:
 
 * _**Evaluation date**:_ last date when the content of this entry was reviewed and/or updated.
 
+
+Get involved
+------------
+
+Please **help us improve this resource**!  We welcome additions and corrections.  You can do this in a number of ways:
+
+* Edit the spreadsheet directly &ndash; the spreadsheet is publicly editable.
+
+* Leave a comment on the spreadsheet.  You can use Google docs' built-in facility for putting comments into spreadsheet cells, and tell us something that way.
+
+* Log an issue in this repo.
+
+* Contact us directly: you can [join the archivers.space Slack](https://github.com/edgi-govdata-archiving/archivers.space) or email [mhucka](https://github.com/mhucka) or [b5](https://github.com/b5).
+
+Please make sure to follow the general [EDGI code of conduct](https://github.com/edgi-govdata-archiving/overview/blob/master/CONDUCT.md) for involvement in this work.
