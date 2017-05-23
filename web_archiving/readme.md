@@ -3,8 +3,8 @@ Comparison of web archiving software
 
 There exist many software systems for crawling and archiving web sites.  It is not always easy to tell which features different software systems possess or how different software systems differ from each other.  The goal of this research project is to fill this gap, by providing a comprehensive comparison of software systems for archiving web sites.
 
-Data
-----
+📚 Data
+--------
 
 The current form of this comparison is a [Google spreadsheet](https://docs.google.com/spreadsheets/d/1FqxwaZnIhhQ7jDCC-W64NMRf5rDeh2Shx3u01MsBmTQ/edit#gid=0), for simplicity of presentation and (hopefully) to make it easier for other people to get involved:
 
@@ -66,8 +66,8 @@ The meanings of the columns are the following:
 * _**Evaluation date**:_ last date when the content of this entry was reviewed and/or updated.
 
 
-Get involved
-------------
+👋 Get involved
+----------------
 
 Please **help us improve this resource**!  We welcome additions and corrections.  You can do this in a number of ways:
 
