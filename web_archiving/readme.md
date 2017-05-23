@@ -3,6 +3,9 @@ Comparison of web archiving software
 
 There exist many software systems for crawling and archiving web sites.  It is not always easy to tell which features different software systems possess or how different software systems differ from each other.  The goal of this research project is to fill this gap, by providing a comprehensive comparison of software systems for archiving web sites.
 
+[![dependencies](https://img.shields.io/badge/dependencies-none-brightgreen.svg?style=flat-square)](http://shields.io)
+[![chat](https://img.shields.io/badge/chat-Slack-yellow.svg?style=flat-square)](https://archivers-slack.herokuapp.com)
+
 📚 Data
 --------
 
