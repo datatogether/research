@@ -5,9 +5,10 @@ There exist many software systems for crawling and archiving web sites.  It is n
 
 The current form of this comparison is a [Google spreadsheet](https://docs.google.com/spreadsheets/d/1FqxwaZnIhhQ7jDCC-W64NMRf5rDeh2Shx3u01MsBmTQ/edit#gid=0):
 
-<center>
+<div align="center">
 <a href="https://docs.google.com/spreadsheets/d/1FqxwaZnIhhQ7jDCC-W64NMRf5rDeh2Shx3u01MsBmTQ/edit#gid=0"><img src=".graphics/spreadsheet-image-v2.png"></a>
-</center><br>
+<br>
+</div>
 
 The meanings of the columns are the following:
 
