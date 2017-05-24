@@ -13,7 +13,7 @@ The current form of this comparison is a [Google spreadsheet](https://docs.googl
 
 <div align="center">
 <a href="https://docs.google.com/spreadsheets/d/1FqxwaZnIhhQ7jDCC-W64NMRf5rDeh2Shx3u01MsBmTQ/edit#gid=0"><img src=".graphics/spreadsheet-image-v2.png"></a>
-<img src=".graphics/spacer.gif"></a>
+<img src=".graphics/spacer.gif"/>
 <br>
 </div>
 
