@@ -58,7 +58,7 @@ The meanings of the columns are the following:
 
 * _**Targeted scraping**:_ Can the user specify how subregions of web pages should be processed? (E.g., using some kind of rule-based scraping or pattern languages like XPath.)
 
-* _**Manual from interaction**:_ Can the user define ways of interacting with web forms? This typically means describing web page scraping procedures. Usually these are defined using a scripting language of some kind, but some software systems offer using a visual GUI to define scraping procedures.
+* _**Manual form interaction**:_ Can the user define ways of interacting with web forms? This typically means describing web page scraping procedures. Usually these are defined using a scripting language of some kind, but some software systems offer using a visual GUI to define scraping procedures.
 
 * _**Auto form extraction**:_ Can the software automatically infer how to interact with web forms, and interrogate the data resource behind the web form?
 
