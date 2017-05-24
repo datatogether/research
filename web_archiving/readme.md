@@ -34,9 +34,11 @@ The meanings of the columns are the following:
 
 * _**WUI**:_ whether the software offers a web-based user interface.
 
-* _**Remote control API**:_ whether the software offers a way to control its operation at run-time
+* _**Library API**:_ does it provide an explicit libary interface? (I.e., does it provide an API so that you can use it in your own program?)
 
-* _**Extensibility framework**:_ whether the base software can be extended via plug-ins or some other relatively easy way
+* _**Network API**:_ whether the software offers a way to control its operation at run-time, either via a separate client program or via a well-defined RPC mechanism.
+
+* _**Extensibility framework**:_ whether the base software can be extended via plug-ins or some other relatively easy way.
 
 * _**Parallel crawling**:_ can the software _itself_ harvest website data from multiple sites in parallel?  (Note that this does not refer to trivial parallelism that one can achieve by running multiple copies of the software; this refers to whether the software itself is designed for doing parallel crawling.)
 
