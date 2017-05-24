@@ -46,19 +46,25 @@ The meanings of the columns are the following:
 
 * _**Crawl storage format(s)**:_ storage format(s) in which web archiving results are stored. 
 
-* _**Capture raw response?**:_ does the software capture and archive the raw HTTP server responses along with the web page content?
+* _**Capture raw response**:_ does the software capture and archive the raw HTTP server responses along with the web page content?
 
-* _**Handle JavaScript?**:_ can the software process JavaScript that may be present in web pages?  (This can range from ignoring JavaScript, to being limited to reading only the text of the JavaScript code, to running a JavaScript interpreter and acting on the results.)
+* _**Extract links from JavaScript**:_ Can the software read the text of JavaScript (even if it can't execute the JavaScript) and extract links/URLs from the text?
 
-* _**Handle web forms?**:_ can the software analyze web forms and submit queries to get results from the forms?
+* _**Run JavaScript**:_ Can the software run JavaScript (e.g., using a headless browser, PhantomJS, or some other technology)?
 
-* _**Handle Flash?**:_ can the software analyze Adobe Flash content? (Note: this means to do more than merely store the `.swf` file.)
+* _**Extract links from Flash**:_ Can the software analyze Adobe Flash content to extract links/URLs?
 
-* _**Handle databases?**:_ can the software harvest the content of databases? (Note: although this sometimes requires handling web forms, for some websites database access is via POST or GET URLs; this is why this is a separate column.)
+* _**Run Flash**:_ Can the software run Adobe Flash content?
 
-* _**Browse?**:_ does the software offer a way to browse the archives it creates?
+* _**Targeted scraping**:_ Can the user specify how subregions of web pages should be processed? (E.g., using some kind of rule-based scraping or pattern languages like XPath.)
 
-* _**Playback?**:_ does the software offer a way to view/playback the contents of archives it creates?
+* _**Manual from interaction**:_ Can the user define ways of interacting with web forms? This typically means describing web page scraping procedures. Usually these are defined using a scripting language of some kind, but some software systems offer using a visual GUI to define scraping procedures.
+
+* _**Auto form extraction**:_ Can the software automatically infer how to interact with web forms, and interrogate the data resource behind the web form?
+
+* _**Browse**:_ does the software offer a way to browse the archives it creates?
+
+* _**Playback**:_ does the software offer a way to view/playback the contents of archives it creates?
 
 * _**Full-text search**:_ does the software offer a way to search the contents of the archives it creates?
 
