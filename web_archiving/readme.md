@@ -16,7 +16,15 @@ The current form of this comparison is a [Google spreadsheet](https://docs.googl
 <br>
 </div>
 
-The meanings of the columns are the following:
+The spreadsheet is divided into 3 sections reflecting broad categories of software types:
+
+1. **Whole site archiving systems**: These are designed to crawl websites and archive everything they find, in an effort to store a faithful copy of the site for later viewing (known as _playback_ in web archiving parlance).
+
+2. **Data scraping systems**: These are not usually designed to crawl a website completely nor do they usually capture a complete copy of the site or its pages; rather, they are designed to extract information from web pages and/or websites.  Nevertheless, the underlying technology is frequently similar to whole site archiving systems, and the feature overlap is similar enough that they can be described using the same columns in the spreadsheet as the other software types.
+
+3. **Single page snapshot/archiving systems**: These are software systems that are designed to capture a single web page as faithfully as possible, but not to follow links to crawl the rest of the website.  This type of software has obvious overlap with site archiving sofware, and some of the underlying technologies used are sometimes the same.
+
+The meanings of the spreadsheet columns are the following:
 
 * _**Name**:_ the most common name for the software.
 
