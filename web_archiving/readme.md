@@ -17,15 +17,15 @@ The current form of this comparison is a [Google spreadsheet](https://docs.googl
 <br>
 </div>
 
-The spreadsheet is divided into 3 sections reflecting broad categories of software types:
+#### _The meanings of the 3 sections in the spreadsheet_
 
-1. **Whole site archiving systems**: These are designed to crawl websites and archive everything they find, in an effort to store a faithful copy of the site for later viewing (known as _playback_ in web archiving parlance).
+1. **Whole site archiving systems**: These are designed to crawl websites and archive everything they find, in an effort to store a faithful copy of the site for later viewing (known as _playback_ in web archiving parlance).  The goal is not necessarily to extract data or download datasets, though some systems can or will do that as a side effect.
 
-2. **Data scraping systems**: These are not usually designed to crawl a website completely nor do they usually capture a complete copy of the site or its pages; rather, they are designed to extract information from web pages and/or websites.  Nevertheless, the underlying technology is frequently similar to whole site archiving systems, and the feature overlap is similar enough that they can be described using the same columns in the spreadsheet as the other software types.
+2. **Data scraping systems**: These are not usually designed to crawl a website completely, nor do they usually capture a complete copy of the site or its pages; rather, they are designed to extract information from web pages and/or websites.  Nevertheless, the underlying technology is frequently similar to whole site archiving systems, and the feature overlap is similar enough that they can be described using the same columns in the spreadsheet as the other software types.
 
 3. **Single page snapshot/archiving systems**: These are software systems that are designed to capture a single web page as faithfully as possible, but not to follow links to crawl the rest of the website.  This type of software has obvious overlap with site archiving sofware, and some of the underlying technologies used are sometimes the same.
 
-The meanings of the spreadsheet columns are the following:
+#### _The meanings of the spreadsheet columns_
 
 * _**Name**:_ the most common name for the software.
 
@@ -62,6 +62,8 @@ The meanings of the spreadsheet columns are the following:
 * _**Extract links from JavaScript**:_ Can the software read the text of JavaScript (even if it can't execute the JavaScript) and extract links/URLs from the text?
 
 * _**Run JavaScript**:_ Can the software run JavaScript (e.g., using a headless browser, PhantomJS, or some other technology)?
+
+* _**Handle React**:_ Can it handle reactive JavaScript frameworks like React?
 
 * _**Extract links from Flash**:_ Can the software analyze Adobe Flash content to extract links/URLs?
 
