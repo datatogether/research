@@ -27,37 +27,39 @@ The current form of this comparison is a [Google spreadsheet](https://docs.googl
 
 #### _The meanings of the spreadsheet columns_
 
-* _**Name**:_ the most common name for the software.
+* _**Name**:_ The most common name for the software.
 
-* _**Open source?**:_ the open source license for the software, if it is open source; if it is not open source, then this column will have a cross in it; and if it is some kind of mix (such as a for-pay service that uses an open-source tool at its core), then it will have the symbol &frac12;.
+* _**Open source?**:_ The open source license for the software, if it is open source; if it is not open source, then this column will have a cross in it; and if it is some kind of mix (such as a for-pay service that uses an open-source tool at its core), then it will have the symbol &frac12;.
 
-* _**Source repo**:_ link to source code repository (if the software is open source.
+* _**Source repo**:_ Link to source code repository (if the software is open source.
 
-* _**Operating system(s)**:_ operating systems on which the software can run.
+* _**Operating system(s)**:_ Operating systems on which the software can run.
 
-* _**Primary dev. language**:_ the primary language in which the software is written.
+* _**Primary dev. language**:_ The primary language in which the software is written.
 
-* _**CLI**:_ whether the software offers a command-line interface.
+* _**CLI**:_ Whether the software offers a command-line interface.
 
-* _**GUI**:_ whether the software offers a graphical user interface.
+* _**GUI**:_ Whether the software offers a graphical user interface.
 
-* _**WUI**:_ whether the software offers a web-based user interface.
+* _**WUI**:_ Whether the software offers a web-based user interface.
 
-* _**Library API**:_ does it provide an explicit libary interface? (I.e., does it provide an API so that you can use it in your own program?)
+* _**Library API**:_ Does it provide an explicit libary interface? (I.e., does it provide an API so that you can use it in your own program?)
 
-* _**Network API**:_ whether the software offers a way to control its operation at run-time, either via a separate client program or via a well-defined RPC mechanism.
+* _**Network API**:_ Whether the software offers a way to control its operation at run-time, either via a separate client program or via a well-defined RPC mechanism.
 
-* _**Extensibility framework**:_ whether the base software can be extended via plug-ins or some other relatively easy way.
+* _**Extensibility framework**:_ Whether the base software can be extended via plug-ins or some other relatively easy way.
 
-* _**Parallel crawling**:_ can the software _itself_ harvest website data from multiple sites in parallel?  (Note that this does not refer to trivial parallelism that one can achieve by running multiple copies of the software; this refers to whether the software itself is designed for doing parallel crawling.)
+* _**Parallel crawling**:_ Can the software _itself_ harvest website data from multiple sites in parallel?  (Note that this does not refer to trivial parallelism that one can achieve by running multiple copies of the software; this refers to whether the software itself is designed for doing parallel crawling.)
 
-* _**Scheduled crawling**:_ does the software provide a way to schedule crawls, for example, based on the time of day?
+* _**Scheduled crawling**:_ Does the software provide a way to schedule crawls, for example, based on the time of day?
 
-* _**URL filtering**:_ does the software offer a way to filter the URLs to be crawled/scraped/harvested using rules, regular expressions, or other filter scheme?
+* _**URL filtering**:_ Does the software offer a way to filter the URLs to be crawled/scraped/harvested using rules, regular expressions, or other filter scheme?
 
-* _**Crawl storage format(s)**:_ storage format(s) in which web archiving results are stored. 
+* _**Crawl storage format(s)**:_ Storage format(s) in which web archiving results are stored. 
 
-* _**Capture raw response**:_ does the software capture and archive the raw HTTP server responses along with the web page content?
+* _**Capture raw response**:_ Does the software capture and archive the raw HTTP server responses along with the web page content?
+
+* _**Follow links**:_ Will it follow links in the page, to process other nearby pages?
 
 * _**Extract links from JavaScript**:_ Can the software read the text of JavaScript (even if it can't execute the JavaScript) and extract links/URLs from the text?
 
@@ -75,17 +77,17 @@ The current form of this comparison is a [Google spreadsheet](https://docs.googl
 
 * _**Auto form extraction**:_ Can the software automatically infer how to interact with web forms, and interrogate the data resource behind the web form?
 
-* _**Browse**:_ does the software offer a way to browse the archives it creates?
+* _**Browse**:_ Does the software offer a way to browse the archives it creates?
 
-* _**Playback**:_ does the software offer a way to view/playback the contents of archives it creates?
+* _**Playback**:_ Does the software offer a way to view/playback the contents of archives it creates?
 
-* _**Full-text search**:_ does the software offer a way to search the contents of the archives it creates?
+* _**Full-text search**:_ Does the software offer a way to search the contents of the archives it creates?
 
-* _**Notable users**:_ list of notable users or organizations that use the software.
+* _**Notable users**:_ List of notable users or organizations that use the software.
 
-* _**Notes and comments**:_ miscellaneous comments and notes.
+* _**Notes and comments**:_ Miscellaneous comments and notes.
 
-* _**Evaluation date**:_ last date when the content of this entry was reviewed and/or updated.
+* _**Evaluation date**:_ Last date when the content of this entry was reviewed and/or updated.
 
 
 👋 Get involved
