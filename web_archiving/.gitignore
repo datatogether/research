@@ -1,0 +1,32 @@
+# -*- mode: gitignore; -*-
+
+# Mac-specific things to ignore:
+# .............................................................................
+
+.DS_Store
+
+# Emacs-specific things to ignore:
+# .............................................................................
+
+*~
+.#*
+.git/COMMIT_EDITMSG
+auto
+*.synctex.gz
+
+# LaTeX-specific things to ignore:
+# .............................................................................
+
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.toc
+*.loc
+*.mp
+
+# Project-specific things to ignore:
+# .............................................................................
+
+readme.html
