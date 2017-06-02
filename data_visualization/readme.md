@@ -1,13 +1,16 @@
 Notes about data visualization options
 ======================================
 
-A pressing visualization issue is conveying how much of a given web resource (e.g., a whole domain) has been archived.  The Archivers&nbsp;2.0 Alpha currently system uses a dynamic hierarchical graph, a sample screenshot of which is shown here:
+There are a number of situations where visualization can play a role in the Archivers&nbsp;2.0 effort.
+
+One pressing need is conveying how much of a given web resource has been archived.  The Archivers&nbsp;2.0 Alpha currently system uses a dynamic hierarchical graph, a sample screenshot of which is shown here:
 
 <img src="figures/coverage-graph-sample-2017-05-21.png"/>
 
-This conveys exact information about the URLs that have been archived, but it is suboptimal in both the information it conveys and its usability.  For example, a common question is “how much of ABC has been archived?” but the current graph visualization approach makes this difficult to answer.
+This conveys exact information about the URLs that have been archived, but it is suboptimal in both the information it conveys and its usability.  For example, a common question is “how much of ABC has been archived?” but the current graph visualization approach makes this difficult to answer.  The ideas below are some options that have been discussed for new different visualization and data exploration interface to replace the one shown above.  Preliminary research was done by [@mhucka](https://github.com/mhucka) on behalf of [Qri.io](http://www.qri.io), and subsequent discussions over the Archivers' Slack led to additional ideas.
 
-The following are some options that have been discussed for a different visualization and data exploration interface.  Preliminary research was done by [@mhucka](https://github.com/mhucka) on behalf of [Qri.io](http://www.qri.io), and subsequent discussions over the Archivers' Slack led to additional ideas.
+Another visualization need is to show relationships between entities of various kinds (e.g., URLs, documents, whatever).  This raises somewhat different requirements.  Some ideas for this need are discussed further below as well.
+
 
 “Sunburst” chart
 ----------------
@@ -66,6 +69,17 @@ For Archivers 2.0, it remains to decide what information to map to the different
 
 1. put domains/subdomains on the horizontal axis (e.g., epa.gov would be the left-most column, then subdomains would be the second column, and so on moving to the right)
 2. map the area of block to the amount of coverage
+
+
+BioFabric
+---------
+
+[BioFabric](http://www.biofabric.org) is a variation on connect node diagrams.  It avoids the _hairball_ problem by making nodes into horizontal lines instead of points.
+
+<img src="figures/biofabric-example-2.png"/>
+
+BioFabric is implemented in Java. The theory behind the visualization approach has been [published in a paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-275) in 2012.
+
 
 
 Miscellaneous resources
