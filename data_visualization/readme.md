@@ -54,11 +54,11 @@ Although icicle trees don't appear to be as popular as sunburst diagrams, there 
 
 * https://bl.ocks.org/mbostock/1005873
 
-Inspired by a [random presentation](http://www.cs.umd.edu/hcil/ehr-workshop-2010/slides/lifeflow.pdf) found by Googling around (see in particular their p.&nbsp;8), another idea is to orient icicle trees horizontally.  This should also make drawing the diagrams easier: if the widths of the rectangles are always the same, then the problem of scaling the size of different blocks reduces to the problem of changing only the heights of the blocks, because the width is constant for all blocks at each level of the hierarchy (i.e., along the horizontal axis).  So the hardest part of the implementation might be deciding what basis to use for scaling the areas.
+Another idea is to orient icicle trees horizontally instead of vertically.  Not only does this make it easier and more natural to add text to the diagram; it should also make implementations simpler. (If the widths of the rectangles are always the same, then the problem of scaling the size of different blocks reduces to the problem of changing only the heights of the blocks, because the width is constant for all blocks at each level of the hierarchy, i.e., along the horizontal axis.)
 
 <img width="300" align="right" src="figures/partition-layout-example.png"/>
 
-It turns out that horizontally-oriented icicle trees are exactly what D3 calls a [partition layout](https://github.com/d3/d3-hierarchy/blob/master/README.md#partition).The examples given in the D3 API reference do not use color very much, but presumably one could enhance them further by a dash of color.
+It turns out that horizontally-oriented icicle trees are exactly what D3 calls a [partition layout](https://github.com/d3/d3-hierarchy/blob/master/README.md#partition). The examples given in the D3 API reference do not use color very much, but presumably one could enhance them further by a dash of color.
 
 * [D3 API reference](https://github.com/d3/d3/blob/master/API.md)
 
