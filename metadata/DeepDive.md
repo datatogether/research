@@ -65,9 +65,9 @@ What else is notable about this system?
 
 * The professor behind the DeepDive project, Christopher Ré, received a [MacArthur Genius grant](https://www.macfound.org/fellows/943/) for his work.
 
-* DARPA funded work on DeepDive for six years.
-
 * Apple recently [acquired the company](http://appleinsider.com/articles/17/05/13/apple-acquires-dark-data-specialist-lattice-data-for-200m) that Ré founded to commercialize DeepDive.
+
+* DARPA funded work on DeepDive for six years.
 
 * There is a _lot_ of material about DeepDive &ndash; academic papers describing the theoretical foundations, examples for different domains, full source code, lots of tutorials for using it, etc.  This is far more than most inference systems provide.
 
@@ -83,5 +83,8 @@ DeepDive is intriguing for several reasons.  First, a key innovation in DeepDive
 Links to more information
 -------------------------
 
-* Home page: http://deepdive.stanford.edu
-* GitHub: https://github.com/HazyResearch/deepdive
+* [Full example of extracting spouse names from the news](http://deepdive.stanford.edu/example-spouse)
+* [Use of DeepDive to produce family trees for Wikidata](https://meta.wikimedia.org/wiki/Research:Wikipedia_Knowledge_Graph_with_DeepD)
+* [Use of DeepDive to extract mentions of genes, diseases, and phenotypes from the biomedical literature](https://academic.oup.com/bioinformatics/article/32/1/106/1742428/Large-scale-extraction-of-gene-interactions-from)
+* [DeepDive home page](http://deepdive.stanford.edu) 
+* [GitHub repo](https://github.com/HazyResearch/deepdive) 
