@@ -55,6 +55,8 @@ The current form of this comparison is a [Google spreadsheet](https://docs.googl
 
 * _**URL filtering**:_ Does the software offer a way to filter the URLs to be crawled/scraped/harvested using rules, regular expressions, or other filter scheme?
 
+* _**Advanced filtering**:_ Does the software offer a way to filter what is scraped based on more than URL patterns, such as document types, size of documents, document content, etc.?
+
 * _**Crawl storage format(s)**:_ Storage format(s) in which web archiving results are stored. 
 
 * _**Capture raw response**:_ Does the software capture and archive the raw HTTP server responses along with the web page content?
