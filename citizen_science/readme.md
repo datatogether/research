@@ -34,7 +34,8 @@ An Introductory "landscape survey" for getting acquainted with citizen science.
 
 ### Tools
 * [Open Science Framework](https://osf.io)
-* Zooniverse Project Builder+
+* [Zooniverse Project Builder](https://www.zooniverse.org/lab)
+* [Metadata Standard developed by the Citizen Science Association](https://www.wilsoncenter.org/article/ppsr-core-metadata-standards)
 
 ### Terms & Topics
 * [participatory action research](https://en.wikipedia.org/wiki/Participatory_action_research)
