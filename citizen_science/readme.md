@@ -5,8 +5,8 @@ An Introductory "landscape survey" for getting acquainted with citizen science.
 ### Documents
 * [The Crowd & The Cloud](http://crowdandcloud.org/) - 4 Part citizen sciene doc, all episodes online
 * [Citizen Science Today](http://www.citizensciencetoday.org/) - Aggregation of grey literature on citizen science using the [PressForward](http://pressforward.org/) plugin.
-* __Caren Cooper book__ - @jmschell recommends
-* Mary Ellen Hannibal book
+* [__Caren Cooper, Citizen Science_](http://www.overlookpress.com/citizen-science.html) - @jmschell recommends
+* Mary Ellen Hannibal
 * Janis L. Dickinson and Rick Bonney
 * __The Rightful Place of Science: Citizen Science__ - @jmschell recommends
 * Citizen Science in the Digital Age: Rhetoric, Science, and Public Engagement
@@ -29,8 +29,9 @@ An Introductory "landscape survey" for getting acquainted with citizen science.
 * [Philip Silva](https://philipsilva.com/research/) - articulates differences in purpose for knowledge production as part of teasing out differences between "c" sciences (2017, forthcoming). 
 
 ### Events
-* [Citizen Science Conf](https://csa2017.sched.com)
+* [Citizen Science Confernce](https://csa2017.sched.com)
 * [Citizen Science Day](http://citizenscience.org/events/citizen-science-day/)
+* [City Nature Challenge](https://nhm.org/nature/citizen-science/city-nature-challenge-2017)
 
 ### Tools
 * [Open Science Framework](https://osf.io)
