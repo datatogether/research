@@ -2,19 +2,24 @@
 
 An Introductory "landscape survey" for getting acquainted with citizen science.
 
-### Documents
+### Videos
 * [The Crowd & The Cloud](http://crowdandcloud.org/) - 4 Part citizen sciene doc, all episodes online
+
+### Journals
 * [Citizen Science Today](http://www.citizensciencetoday.org/) - Aggregation of grey literature on citizen science using the [PressForward](http://pressforward.org/) plugin.
-* [__Caren Cooper, Citizen Science_](http://www.overlookpress.com/citizen-science.html) - @jmschell recommends
-* Mary Ellen Hannibal
-* Janis L. Dickinson and Rick Bonney
-* __The Rightful Place of Science: Citizen Science__ - @jmschell recommends
-* Citizen Science in the Digital Age: Rhetoric, Science, and Public Engagement
-* The Incidental Steward: Reflections on Citizen Science
-* Citizen Science Guide for Families: Taking Part in Real Science
+* [Citizen Science: Theory and Practice](http://theoryandpractice.citizenscienceassociation.org/)
+
+### Books
+* Caren Cooper,[_Citizen Science_](http://www.overlookpress.com/citizen-science.html) - @jmschell recommends
+* Mary Ellen Hannibal, [_Citizen Scientist_](https://www.workman.com/products/citizen-scientist)
+* Janis L. Dickinson and Rick Bonney, [_Citizen Science_](http://www.cornellpress.cornell.edu/book/?GCOI=80140100107290)
+* Darlene Cavalier and Eric B. Kennedy, [__The Rightful Place of Science: Citizen Science__](http://cspo.org/news/rightful-place-of-science-citizen-science/) - @jmschell recommends
+* James Wynn, [_Citizen Science in the Digital Age: Rhetoric, Science, and Public Engagement_](http://www.uapress.ua.edu/product/Citizen-Science-in-the-Digital-Age,6493.aspx)
+* Akiko Busch, [_The Incidental Steward: Reflections on Citizen Science_](http://yalebooks.yale.edu/book/9780300205671/incidental-steward)
+* Greg Landgraf, [_Citizen Science Guide for Families: Taking Part in Real Science_](http://www.ipgbook.com/citizen-science-guide-for-families-products-9781937589356.php)
 
 ### Orgs
-* [Citizen Science](http://citizenscience.org)
+* [Citizen Science Association](http://citizenscience.org)
 * [SciStarter](https://scistarter.com)
 * [Zooniverse](http://zooniverse.org/)
 * [PublicLab](http://publiclab.org)
