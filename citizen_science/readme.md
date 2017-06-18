@@ -10,10 +10,10 @@ An Introductory "landscape survey" for getting acquainted with citizen science.
 * [Citizen Science: Theory and Practice](http://theoryandpractice.citizenscienceassociation.org/)
 
 ### Books
-* Caren Cooper,[_Citizen Science_](http://www.overlookpress.com/citizen-science.html) - @jmschell recommends
+* Caren Cooper,[_Citizen Science_](http://www.overlookpress.com/citizen-science.html) - @jschell42 recommends
+* Darlene Cavalier and Eric B. Kennedy, [_The Rightful Place of Science: Citizen Science_](http://cspo.org/news/rightful-place-of-science-citizen-science/) - @jschell42 recommends
 * Mary Ellen Hannibal, [_Citizen Scientist_](https://www.workman.com/products/citizen-scientist)
 * Janis L. Dickinson and Rick Bonney, [_Citizen Science_](http://www.cornellpress.cornell.edu/book/?GCOI=80140100107290)
-* Darlene Cavalier and Eric B. Kennedy, [__The Rightful Place of Science: Citizen Science__](http://cspo.org/news/rightful-place-of-science-citizen-science/) - @jmschell recommends
 * James Wynn, [_Citizen Science in the Digital Age: Rhetoric, Science, and Public Engagement_](http://www.uapress.ua.edu/product/Citizen-Science-in-the-Digital-Age,6493.aspx)
 * Akiko Busch, [_The Incidental Steward: Reflections on Citizen Science_](http://yalebooks.yale.edu/book/9780300205671/incidental-steward)
 * Greg Landgraf, [_Citizen Science Guide for Families: Taking Part in Real Science_](http://www.ipgbook.com/citizen-science-guide-for-families-products-9781937589356.php)
