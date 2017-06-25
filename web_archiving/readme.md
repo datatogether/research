@@ -27,6 +27,8 @@ The current form of this comparison is a [Google spreadsheet](https://docs.googl
 
 #### _The meanings of the spreadsheet columns_
 
+Capabilities are evaluated as "out of the box" functionality. In cases where a system provides an API or is a framework or toolkit, it can be possible to achieve capabilities by writing your own code in conjunction with using the API or framework provided by the system. For this reason, when reading the presence of a ✖ in a column, it's also necessary to consider whether the capability couldn't be achieved by writing a script or program that uses the API.
+
 * _**Name**:_ The most common name for the software.
 
 * _**Open source?**:_ The open source license for the software, if it is open source; if it is not open source, then this column will have a cross in it; and if it is some kind of mix (such as a for-pay service that uses an open-source tool at its core), then it will have the symbol &frac12;.
@@ -55,15 +57,15 @@ The current form of this comparison is a [Google spreadsheet](https://docs.googl
 
 * _**Scheduled crawling**:_ Does the software provide a way to schedule crawls, for example, based on the time of day?
 
-* _**URL filtering**:_ Does the software offer a way to filter the URLs to be crawled/scraped/harvested using rules, regular expressions, or other filter scheme?
-
-* _**Advanced filtering**:_ Does the software offer a way to filter what is scraped based on more than URL patterns, such as document types, size of documents, document content, etc.?
-
 * _**Crawl storage format(s)**:_ Storage format(s) in which web archiving results are stored. 
 
 * _**Capture raw response**:_ Does the software capture and archive the raw HTTP server responses along with the web page content?
 
 * _**Follow links**:_ Will it follow links in the page, to process other nearby pages?
+
+* _**URL filtering**:_ Does the software offer a way to filter the URLs to be crawled/scraped/harvested using rules, regular expressions, or other filter scheme?
+
+* _**Advanced filtering**:_ Does the software offer a way to filter what is scraped based on more than URL patterns, such as document types, size of documents, document content, etc.?
 
 * _**Extract links from JavaScript**:_ Can the software read the text of JavaScript (even if it can't execute the JavaScript) and extract links/URLs from the text?
 
