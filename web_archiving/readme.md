@@ -37,6 +37,8 @@ The current form of this comparison is a [Google spreadsheet](https://docs.googl
 
 * _**Primary dev. language**:_ The primary language in which the software is written.
 
+* _**Target audience**:_ What type of user is the software primarily intended for? The value _user_ means individuals; _enterprise_ means institutions or other organizations. Usually, _enterprise_ means the software requires non-trivial infrastructure setup and there is a pricing model for organizations (e.g., offering subscriptions). Of course, a _user_ could also be a user at an institution, so these are not mutually-exclusive categories. Instead, this column is meant to address the question "if I'm an individual, will I likely be able to set this up and use it?"
+
 * _**CLI**:_ Whether the software offers a command-line interface.
 
 * _**GUI**:_ Whether the software offers a graphical user interface.
