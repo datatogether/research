@@ -14,8 +14,10 @@ The current form of this comparison is a [Google spreadsheet](https://docs.googl
 <div align="center">
 <a href="https://docs.google.com/spreadsheets/d/1FqxwaZnIhhQ7jDCC-W64NMRf5rDeh2Shx3u01MsBmTQ/edit#gid=0"><img src=".graphics/spreadsheet-image-v2.png"></a>
 <img src=".graphics/spacer.gif"/>
-<br>
+<br><br>
 </div>
+
+The spreadsheet contains filled-out entries for software tools, as well as a list of currently unanalyzed tools.  The top three sections of the spreadsheet collect together the most filled-out entries.  If you have information about software in the spreadsheet (or missing from the spreadsheet), please see the <a href="#-get-involved">section on getting involved</a> below.
 
 #### _The meanings of the 3 sections in the spreadsheet_
 
