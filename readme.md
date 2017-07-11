@@ -16,7 +16,7 @@ This repository contains a compilation of research for tackling the general prob
 
 ## ♬ Contributing
 
-Contribution guidelines are described in [contributing.md](contributing.md), but the nutshell summary is: propose or submit any additions or changes relevant to Data Together.  If you have a resource, piece of knowledge, anything that you'd like to share, contribute it!  Pull requests are welcome and will be merged aggressively.
+Contribution guidelines are described in [CONTRIBUTING.md](CONTRIBUTING.md), but the nutshell summary is: propose or submit any additions or changes relevant to Data Together.  If you have a resource, piece of knowledge, anything that you'd like to share, contribute it!  Pull requests are welcome and will be merged aggressively.
 
 We try to map a topics to directories.  Feel free to add more categories. If you'd like to add something that fits more than one category, feel free to put it in both.
 
