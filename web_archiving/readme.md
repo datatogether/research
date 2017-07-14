@@ -17,7 +17,7 @@ The current form of this comparison is a [Google spreadsheet](https://docs.googl
 <br><br>
 </div>
 
-The spreadsheet contains filled-out entries for software tools, as well as a list of currently unanalyzed tools.  The top three sections of the spreadsheet collect together the most filled-out entries.  If you have information about software in the spreadsheet (or missing from the spreadsheet), please see the <a href="#-get-involved">section on getting involved</a> below.
+The spreadsheet contains filled-out entries for software tools, as well as a list of currently unanalyzed tools.  The top three sections of the spreadsheet collect together the most fully filled-out entries, and below that, there is a list of as-yet unanalyzed software waiting to have their full entries constructed.  Free and non-free software systems are included in this spreadsheet, and no differentiation based on quality or importance has been made.   If you have information about software in the spreadsheet (or missing from the spreadsheet), please see the <a href="#-get-involved">section on getting involved</a> below.
 
 #### _The meanings of the 3 sections in the spreadsheet_
 
@@ -33,7 +33,7 @@ Capabilities are evaluated as "out of the box" functionality. In cases where a s
 
 * _**Name**:_ The most common name for the software.
 
-* _**Open source?**:_ The open source license for the software, if it is open source; if it is not open source, then this column will have a cross in it; and if it is some kind of mix (such as a for-pay service that uses an open-source tool at its core), then it will have the symbol &frac12;.
+* _**Open source?**:_ The open source license for the software, if it is open source; if it is _not_ open source, then this column will have a cross in it; and if it is some kind of mix (such as a for-pay service that uses an open-source tool at its core), then it will have the symbol &frac12;.
 
 * _**Source repo**:_ Link to source code repository (if the software is open source.
 
