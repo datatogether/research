@@ -8,11 +8,12 @@ This repository contains a compilation of research for tackling the general prob
 
 ## ☀ Overview of current contents:
 
-* [citizen_science](citizen_science) &ndash;  introductory "landscape survey" for getting acquainted with citizen science.
+* [citizen_science](citizen_science) &ndash;  introductory "landscape survey" for getting acquainted with citizen science
 * [data_visualization](data_visualization) &ndash; survey of some visualization options for archived URLs
 * [fairness_in_data](fairness_in_data) &ndash; data justice and algorithmic fairness
-* [metadata](metadata) &ndash; summaries of some particularly notable systems designed to infer data and metadata
-* [web_archiving](web_archiving) &ndash; comparison of different web archiving and crawling software tools
+* [metadata](metadata) &ndash; summaries of some systems designed to infer data and metadata
+* [web_harvesting](web_harvesting) &ndash; summaries of different approaches and issues in crawling web pages
+* [web_archiving_software](web_archiving_software) &ndash; comparison of different web archiving software tools
 
 ## ♬ Contributing
 
