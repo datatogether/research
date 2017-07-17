@@ -35,7 +35,7 @@ Capabilities are evaluated as "out of the box" functionality. In cases where a s
 
 * _**Open source?**:_ The open source license for the software, if it is open source; if it is _not_ open source, then this column will have a cross in it; and if it is some kind of mix (such as a for-pay service that uses an open-source tool at its core), then it will have the symbol &frac12;.
 
-* _**Source repo**:_ Link to source code repository (if the software is open source.
+* _**Source repo**:_ Link to source code repository (if the software is open source).
 
 * _**Operating system(s)**:_ Operating systems on which the software can run.
 
@@ -49,7 +49,7 @@ Capabilities are evaluated as "out of the box" functionality. In cases where a s
 
 * _**WUI**:_ Whether the software offers a web-based user interface.
 
-* _**Library API**:_ Does it provide an explicit libary interface? (I.e., does it provide an API so that you can use it in your own program?)
+* _**Library API**:_ Does it provide an explicit libary interface? (i.e., does it provide an API so that you can use it in your own program?)
 
 * _**Network API**:_ Whether the software offers a way to control its operation at run-time, either via a separate client program or via a well-defined RPC mechanism.
 
@@ -79,7 +79,7 @@ Capabilities are evaluated as "out of the box" functionality. In cases where a s
 
 * _**Run Flash**:_ Can the software run Adobe Flash content?
 
-* _**Targeted scraping**:_ Can the user specify how subregions of web pages should be processed? (E.g., using some kind of rule-based scraping or pattern languages like XPath.)
+* _**Targeted scraping**:_ Can the user specify how subregions of web pages should be processed? (e.g., using some kind of rule-based scraping or pattern languages like XPath.)
 
 * _**Manual form interaction**:_ Can the user define ways of interacting with web forms? This typically means describing web page scraping procedures. Usually these are defined using a scripting language of some kind, but some software systems offer using a visual GUI to define scraping procedures.
 
