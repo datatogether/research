@@ -13,7 +13,7 @@ This repository contains a compilation of research for tackling the general prob
 * [fairness_in_data](fairness_in_data) &ndash; data justice and algorithmic fairness
 * [metadata](metadata) &ndash; summaries of some systems designed to infer data and metadata
 * [web_harvesting](web_harvesting) &ndash; summaries of different approaches and issues in crawling web pages
-* [web_archiving_software](web_archiving_software) &ndash; comparison of different web archiving software tools
+* [web_archiving](web_archiving) &ndash; comparison of different web archiving software tools
 
 ## ♬ Contributing
 
