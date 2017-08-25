@@ -103,8 +103,6 @@ Capabilities are evaluated as "out of the box" functionality. In cases where a s
 
 Please **help us improve this resource**!  We welcome additions and corrections.  You can do this in a number of ways:
 
-* Edit the spreadsheet directly &ndash; the spreadsheet is publicly editable.
-
 * Leave a comment on the spreadsheet.  You can use Google docs' built-in facility for putting comments into spreadsheet cells, and tell us something that way.
 
 * Log an issue in this repo.
