@@ -63,7 +63,7 @@ Examined the hypothesis that researchers are reluctant to share data because the
 <em>
 Examines the state of data archives at the time, and the reasons it has been difficult to get researchers to archive their data.
 </em>
-</details><br>
+</details>
 
 
 ## Data disappearance and link rot
@@ -138,7 +138,7 @@ Short 2004 article about how many URLs referenced in cancer research journals be
 <em>
 A short 2003 paper reviewing the (then) evidence of URL rot and data loss from web sources found in JAMA, NEJM and Science. Obviously not relevant today bc of the age, but useful as a marker when comparing to recent studies of data loss. Also has a great quote that can be used to motivate regular website archiving: "Readers, however, cannot be assured that the information captured by Internet Archive, or Google, or even an active URL is unchanged compared with the information originally captured by the authors."
 </em>
-</details><br>
+</details>
 
 
 ## Policies and consequences
