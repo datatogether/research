@@ -19,6 +19,7 @@ Outstanding article. Lays out the problem faced by libraries to preserve researc
 </em>
 </details>
 
+
 ## Data sharing and archiving by researchers
 
 <em>Research providing evidence for the poor state of data archiving and availability of data. This is not about data disappearance or link rot, but rather about whether researchers bother to share their data in the first place.</em>
@@ -69,7 +70,75 @@ Examines the state of data archives at the time, and the reasons it has been dif
 
 <em>Studies of link rot (or "URL corrosion") and general disappearance of data and electronic resources that were ostensibly available at one time.</em>
 
+<details>
+<summary><a href="files/berg_2016.pdf">Berg, J. (2016). Editorial expression of concern. Science (New York, N.Y.), 354(6317), 1242-1242.</a></summary><br>
+<em>
+"The authors have notified Science of the theft of the computer on which the raw data for the paper were stored. These data were not backed up on any other device nor deposited in an appropriate repository. Science is publishing this Editorial Expression of Concern to alert our readers to the fact that no further data can be made available, beyond those already presented in the paper and its supplement, to enable readers to understand, assess, reproduce, or extend the conclusions of the paper. 
+</em>
+</details><br>
 
+<details>
+<summary><a href="files/vines_et_al_2014.pdf">Vines, T. H., Albert, A. Y., Andrew, R. L., Débarre, F., Bock, D. G., Franklin, M. T., Gilbert, K. J., Moore, J. -S., Renaut, S., & Rennison, D. J. (2014). The availability of research data declines rapidly with article age. Current Biology, 24(1), 94-97.</a></summary><br>
+<em>
+Examined how quickly data becomes unavailable after publication of a research paper. In order to avoid confounding factors due to different practices in different fields, they focused on a specific domain (articles containing morphological data from plants or animals using a particular kind of analysis). They found that "The major cause of the reduced data availability for older papers was the rapid increase in the proportion of data sets reported as either lost or on inaccessible storage media. For papers where authors reported the status of their data, the odds of the data being extant decreased by 17% per year."
+</em>
+</details><br>
+
+<details>
+<summary><a href="files/prithviraj_et_al_2014.pdf">Prithviraj, K. R. & Kumar, B. T. S. (2014). Corrosion of URLs: Implications for electronic publishing. IFLA Journal, 40(1), 35-47.</a></summary><br>
+<em>
+Another study of link rot (which they call "URL corrosion"). They found very high rates. This paper is also interesting because it cites and summarizes a large number of other studies on the same topic.
+</em>
+</details><br>
+
+<details>
+<summary><a href="files/thorp_schriger_2011.pdf">Thorp, A. W. & Schriger, D. L. (2011). Citations to web pages in scientific articles: The permanence of archived references. Annals of Emergency Medicine, 57(2), 165-168.</a></summary><br>
+<em>
+Another study of how published URLs become inaccessible over time. Studied how the web pages at URLs changed after authors referenced it in papers. Method: "We scanned the “Articles in Press” section in Annals of Emergency Medicine from March 2009 through June 2010 for Internet references in research articles. If an Internet reference produced the authors’ expected content, the Web page was archived with WebCite (http://www.webcitation.org). Because the archived Web page does not change, we compared it with the original URL to determine whether the original Web page had changed. We attempted to access each original URL and archived Web site URL at 3-month intervals from the time of online publication during an 18-month study period." They found that 35% of the original URLs were lost, but none of the ones in WebCite were lost.
+</em>
+</details><br>
+
+<details>
+<summary><a href="files/wren_2008.pdf">Wren, J. D. (2008). URL decay in MEDLINE—a 4-year follow-up study. Bioinformatics, 24(11), 1381-1385.</a></summary><br>
+<em>
+Follow up to Wren's 2004 study (below). Found no significant change in the rate of decay of URLs. However, found that URLs that were cited more than twice were much less likely to disappear than those cited only once or twice. (I.e., more popular resources were more likely to resist decay.) An important caveat here is that this is about published URLs; the underlying data or resource may still be available elsewhere.
+</em>
+</details><br>
+
+<details>
+<summary><a href="files/aronsky_et_al_2007.pdf">Aronsky, D., Madani, S., Carnevale, R. J., Duda, S., & Feyder, M. T. (2007). The prevalence and inaccessibility of internet references in the biomedical literature at the time of publication. Journal of the American Medical Informatics Association : JAMIA, 14(2), 232-4.</a></summary><br>
+<em>
+A 2007 study of the citations in 4,700 papers from 844 different journals. They examined which ones of the citations were to Internet resources. Found that 12% of those internet resources were already inaccessible within 2 days of an article's release. This paper is also useful for the citations includes to other similar studies.
+</em>
+</details><br>
+
+<details>
+<summary><a href="files/evangelou_et_al_2005.pdf">Evangelou, E., Trikalinos, T. A., & Ioannidis, J. P. (2005). Unavailability of online supplementary scientific information from articles published in major journals. The FASEB Journal : Official Publication of the Federation of American Societies for Experimental Biology, 19(14), 1943-1944.</a></summary><br>
+<em>
+A 2005 study of link rot for top journals: Science, Nature, Cell, New England Journal of Medicine, Lancet, and PNAS. Found that nearly 5% of online supplementary information links were bad after 2 years, and nearly 10% were bad after 5 years. 
+</em>
+</details><br>
+
+<details>
+<summary><a href="files/wren_2004.pdf">Wren, J. D. (2004). 404 not found: The stability and persistence of URLs published in MEDLINE. Bioinformatics, 20(5), 668-672.</a></summary><br>
+<em>
+Another study of how URLs published in research journals become inaccessible over time. For the time span evaluated (1994–2002), he found a 19% cummulative loss per year, meaning 19% of URLs become inaccessible per year, every year. Obviously not relevant today bc of the age, but useful as a marker when comparing to recent studies of data loss.
+</em>
+</details><br>
+
+<details>
+<summary><a href="files/hester_et_al_2004.pdf">Hester, E. J., Heilig, L. F., Drake, A. L., Johnson, K. R., Vu, C. T., Schilling, L. M., & Dellavalle, R. P. (2004). Internet citations in oncology journals: A vanishing resource?. Journal of the National Cancer Institute, 96(12), 969-971.</a></summary><br>
+<em>
+Short 2004 article about how many URLs referenced in cancer research journals became inaccessible over time. "9.5%, 10%, and 33% of Internet addresses were inactive 5, 17, and 29 months after publication, respectively."
+</em>
+</details><br>
+
+<details>
+<summary><a href="files/dellavalle_et_al_2003.pdf">Dellavalle, R. P., Hester, E. J., Heilig, L. F., Drake, A. L., Kuntzman, J. W., Graber, M., & Schilling, L. M. (2003). Going, going, gone: Lost internet references. Science (New York, N.Y.), 302(5646), 787-788.</a></summary><br>
+<em>
+A short 2003 paper reviewing the (then) evidence of URL rot and data loss from web sources found in JAMA, NEJM and Science. Obviously not relevant today bc of the age, but useful as a marker when comparing to recent studies of data loss. Also has a great quote that can be used to motivate regular website archiving: "Readers, however, cannot be assured that the information captured by Internet Archive, or Google, or even an active URL is unchanged compared with the information originally captured by the authors."
+</em>
+</details><br>
 
 
 ## Policies and consequences
