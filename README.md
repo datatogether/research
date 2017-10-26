@@ -16,6 +16,30 @@ This repository contains a compilation of research for tackling the general prob
 * [web_harvesting](web_harvesting) &ndash; summaries of different approaches and issues in crawling web pages
 * [web_archiving](web_archiving) &ndash; comparison of different web archiving software tools
 
+## License & Copyright
+
+[Modelled on [project guidelines template](https://github.com/datatogether/roadmap/blob/master/PROJECT.md#license--copyright-readme-block) ]
+
+## Getting Involved
+
+We would love involvement from more people! If you notice any errors or would like to submit changes, please see our [Contributing Guidelines](./.github/CONTRIBUTING.md). 
+
+We use GitHub issues for [tracking bugs and feature requests](https://github.com/datatogether/REPONAME/issues) and Pull Requests (PRs) for [submitting changes](https://github.com/datatogether/REPONAME/pulls)
+
+## ...
+
+## [Optional section(s) on Installation (actually using the service!), Architecture, Dependencies, and Other Considerations]
+
+[fill  out this section if the repo contains deployable/installable code]
+
+## Development
+
+[Step-by-step instructions about how to set up a local dev environment and any dependencies]
+
+## Deployment
+
+[Optional section with deployment instructions]
+
 ## ♬ Contributing
 
 Contribution guidelines are described in [CONTRIBUTING.md](CONTRIBUTING.md), but the nutshell summary is: propose or submit any additions or changes relevant to Data Together.  If you have a resource, piece of knowledge, anything that you'd like to share, contribute it!  Pull requests are welcome and will be merged aggressively.
