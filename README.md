@@ -4,6 +4,7 @@ This repository contains a compilation of research for tackling the general prob
 
 [![GitHub](https://img.shields.io/badge/project-Data_Together-487b57.svg?style=flat-square)](http://github.com/datatogether)
 [![Slack](https://img.shields.io/badge/slack-Archivers-b44e88.svg?style=flat-square)](https://github.com/edgi-govdata-archiving/archivers.space)
+[![License](https://img.shields.io/github/license/datatogether/research.svg)](./LICENSE)
 
 ## Overview of Contents
 
@@ -19,7 +20,13 @@ This repository contains a compilation of research for tackling the general prob
 
 We would love involvement from more people! If you notice any errors or would like to submit changes, please see our [Contributing Guidelines](./.github/CONTRIBUTING.md). The nutshell summary is: propose or submit any additions or changes relevant to Data Together.  If you have a resource, piece of knowledge, anything that you'd like to share, contribute it! We try to map a topics to directories. Feel free to add more categories. If you'd like to add something that fits more than one category, feel free to put it in both.
 
-We use GitHub issues for [tracking requests](https://github.com/datatogether/research/issues) and Pull Requests (PRs) for [submitting changes](https://github.com/datatogether/research/pulls). Pull requests are welcome and will be merged aggressively. 
+We use GitHub issues for [tracking requests](https://github.com/datatogether/research/issues) and Pull Requests (PRs) for [submitting changes](https://github.com/datatogether/research/pulls). Pull requests are welcome and will be merged aggressively.
+
+## License & Copyright
+
+Unless otherwise noted, <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Data Together Research Materials</span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+See the [`LICENSE`](/LICENSE) file for details.
 
 ## 🚴‍♀️ Roadmap
 
