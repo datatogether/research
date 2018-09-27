@@ -3,7 +3,7 @@
 An Introductory "landscape survey" for getting acquainted with citizen science.
 
 ### Videos
-* [The Crowd & The Cloud](http://crowdandcloud.org/) - 4 Part citizen sciene doc, all episodes online
+* [The Crowd & The Cloud](http://crowdandcloud.org/) - 4 Part citizen science doc, all episodes online
 
 ### Journals
 * [Citizen Science Today](http://www.citizensciencetoday.org/) - Aggregation of grey literature on citizen science using the [PressForward](http://pressforward.org/) plugin.
@@ -48,7 +48,7 @@ An Introductory "landscape survey" for getting acquainted with citizen science.
 * "C" science as an umbrella term, because the term "citizen" is problemmatic, also see civic science, community science, and the most general "public participation in science". Also notable "street science" (Coburn)
 
 ### History
-* environmental observation, natural philosophy, pre-professionalization of science
+* Environmental observation, natural philosophy, pre-professionalization of science
 * * [Pragmatic Theory of Truth](https://en.wikipedia.org/wiki/Pragmatic_theory_of_truth)
 * 1940s 50s 60s Kurt Lewin [Participatory Action Research](https://en.wikipedia.org/wiki/Participatory_action_research) - internationalization in 70s 80s 90s see [Chevalier and Buckles](https://www.amazon.com/Participatory-Action-Research-Methods-Engaged/dp/0415540321) 
 * 70s Regulatory Science https://en.wikipedia.org/wiki/Regulatory_science and [written by Sheila Jasenoff](http://www.hup.harvard.edu/catalog.php?isbn=9780674300620&content=reviews) 
